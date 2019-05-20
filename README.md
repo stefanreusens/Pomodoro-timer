@@ -10,7 +10,7 @@ After the break-session the work-session starts again.
 
 ## Install
 
-$ git clone https://github.com/stefanreusens/Pomodoro-timer
-$ cd Pomodoro-timer/
-$ npm install
-$ npm start
+    $ git clone https://github.com/stefanreusens/Pomodoro-timer
+    $ cd Pomodoro-timer/
+    $ npm install
+    $ npm start
