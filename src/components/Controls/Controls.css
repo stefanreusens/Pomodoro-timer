@@ -1,0 +1,27 @@
+.Controls {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    padding: 2rem;
+}
+
+.Controls #start_stop, .Controls #reset {
+  font-size: 2.5rem;
+  color: #040B30;
+  outline: none;
+  border: none;
+  background: #C3DFE3;
+}
+
+.Controls #start_stop:hover, .Controls #reset:hover {
+  color: #F41248;
+  cursor: pointer;
+}
+
+.Controls #start_stop {
+  margin-right: 5rem;
+}
+
+.Controls #reset {
+  transform: scaleX(-1);
+}

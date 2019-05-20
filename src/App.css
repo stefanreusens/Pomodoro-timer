@@ -1,0 +1,15 @@
+@import "https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css";
+@import "https://fonts.googleapis.com/css?family=Poppins:500,600,700,800";
+@import url("https://use.typekit.net/oot8rwl.css");
+
+@import "components/Header/Header.css";
+@import "components/Timer/Timer.css";
+@import "components/Controls/Controls.css";
+@import "components/SetTimer/SetTimer.css";
+@import "components/Footer/Footer.css";
+
+body {
+  font: 400 100%/1.6 Roboto, Helvetica, sans-serif;
+  height: 100vh;
+  background: #C3DFE3;
+}

@@ -1,0 +1,13 @@
+.header {
+    background: #040B30;
+    text-align: center;
+    padding: .8rem 0 .4rem 0;
+}
+
+.header h1 {
+    color: #C3DFE3;
+    font: 400 100%/1.6 Brandon grotesque, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 2rem;
+    letter-spacing: 3px;
+}
