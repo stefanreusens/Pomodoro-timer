@@ -14,3 +14,7 @@ After the break-session the work-session starts again.
     $ cd Pomodoro-timer/
     $ npm install
     $ npm start
+
+---
+
+Your webbrowser should open http://localhost:3000/ automaticly. If not, click [here](http://localhost:3000/). You can now play the game. Enjoy!
